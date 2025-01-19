@@ -1,6 +1,6 @@
 # s3cure.py - MinIO Bucket Creator 🚀
 
-[![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
 [![MinIO](https://img.shields.io/badge/MinIO-Compatible-orange.svg)](https://min.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
